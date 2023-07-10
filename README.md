@@ -1,10 +1,10 @@
-## AutoBudgeter
+# AutoBudgeter
 
-# Description
+## Description
 This program automatically scrapes bank transactions from emails, sorts the transactions, loads them into a budget spreadsheet, then sends text updates. 
 I had built this program to work specifically for me and my device. It worked great for me, but it has not been updated for general use. I uploaded for future reference, and so others can see what I've completed in the past.
 
-# Process
+## Process
 * Test internet connection
 * Check if workbook is open
 * Delete unrelated emails (with no bank transactions)
@@ -18,5 +18,5 @@ I had built this program to work specifically for me and my device. It worked gr
 * Unecessary files are removed from computer
 * If there are any issues throughout this process a text is sent to the user with releveant information
 
-# Credit
+## Credit
 All of this code was written or compiled by me. Multiple functions in this program were sampled from code I found online, most notably the functions dealing with email and scraping html. I did not make note of everywhere I took code from. 
